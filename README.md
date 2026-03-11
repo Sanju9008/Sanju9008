@@ -1,6 +1,6 @@
 # 💫 About Me
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Sanjeev+Koti;Frontend+Developer;React.js+Enthusiast;Building+Modern+Web+Apps;Always+Learning+New+Tech" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Sanjeev+Koti;Frontend+Developer;Building+Modern+Web+Apps;Always+Learning+New+Tech" />
 
 ---
 
